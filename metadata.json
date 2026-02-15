@@ -1,0 +1,5 @@
+{
+  "name": "log(OS) v5",
+  "description": "A spatial word-logic game where the board layout encodes rules. Place tiles to discover hidden operators and compile logic chains.",
+  "requestFramePermissions": []
+}
