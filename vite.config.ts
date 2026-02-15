@@ -5,7 +5,7 @@ import path from 'path'
 export default defineConfig({
   plugins: [react()],
   // CRITICAL: This makes sure GitHub Pages can find your files
-  base: './log-OS-v5/', 
+  base: '/log-OS-v5/', 
   
   define: {
     // CRITICAL: This stops the "process is not defined" crash
